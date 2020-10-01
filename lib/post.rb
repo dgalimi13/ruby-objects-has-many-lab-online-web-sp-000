@@ -22,7 +22,7 @@ class Post
   def author_name
       self.name
        
-  end
+  
 end
 
 end
