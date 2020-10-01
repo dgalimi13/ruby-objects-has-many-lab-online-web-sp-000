@@ -25,8 +25,7 @@ class Post
       else 
         return
         author.name
-       
-  
-end
+       end
+     end
 
 end
