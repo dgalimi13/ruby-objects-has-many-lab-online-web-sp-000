@@ -20,6 +20,10 @@ class Post
   
   def author_name
       if !author.name
+        return nil 
+      else 
+        author.name 
+      end
      end
 
 end
