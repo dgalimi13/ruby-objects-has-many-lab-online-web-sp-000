@@ -19,12 +19,7 @@ class Post
   end
   
   def author_name
-      if !author.name
-        return nil 
-      else 
-        return
-        author.name
-       end
+       author.name
      end
 
 end
