@@ -23,7 +23,8 @@ class Post
       if !author.name
         return nil 
       else 
-        reurn
+        return
+        author.name
        
   
 end
